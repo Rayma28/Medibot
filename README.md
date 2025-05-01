@@ -34,6 +34,10 @@ This project is an AI-powered chatbot that provides basic medical diagnostics ba
    http://127.0.0.1:5000/
    ```
 
+## Output
+![image](https://github.com/user-attachments/assets/ac664739-c430-4701-9b41-a7c3b4e6e32d)
+![image](https://github.com/user-attachments/assets/8090135e-f93d-47c3-910a-0e2a4323e6f4)
+
 ## 🧠 Disclaimer
 This chatbot is for educational and informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment.
 
