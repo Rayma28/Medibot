@@ -1,0 +1,20 @@
+# Ignore virtual environments
+venv/
+venv310/
+env/
+.tfenv310/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# macOS
+.DS_Store
+
+tfenv310/
+*.so
+*.dylib
+*.pyc
